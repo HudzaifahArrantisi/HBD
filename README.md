@@ -1,3 +1,3 @@
 # Hbd
 
-https://hudzaifaharrantisi.github.io/hbd/
+https://hudzaifaharrantisi.github.io/HBD/
